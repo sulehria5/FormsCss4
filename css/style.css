@@ -1,0 +1,62 @@
+input[type="emailAdress"]{
+    width:18vw;
+    
+  
+}
+input[type="setupPassword"]{
+    width: 18vw;
+    
+   
+}
+input[type="FirstName"]{
+    
+}
+input[type="LastName"]{
+    
+}
+
+button{
+    width:18vw;
+  
+    background-color: lightgreen;
+}
+form{
+  
+}
+
+form p{
+    text-align: right;
+    
+    
+}
+fieldset{
+    width: 20vw;
+}
+a{
+    background-color: lightgreen;
+    
+    font-style: 1rem;
+    padding: 1% 12%;
+    text-align: center;
+   
+
+}
+a:hover{
+    background-color: aquamarine;
+}
+h1,h2{
+    
+}
+input[type="email"]{
+  
+   
+}
+input[type="password"]{
+ 
+    
+}
+button:hover{
+    background-color:rgb(20, 174, 20);
+    color:white;
+    
+}
